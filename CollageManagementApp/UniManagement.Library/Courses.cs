@@ -1,6 +1,12 @@
 ﻿namespace UniManagement.Library
 {
-    internal class Courses
+    public class Courses
     {
+        public int CourseID { get; set; }
+
+        public string Title { get; set; }
+
+        public int TeacherID { get; set; } 
+
     }
 }

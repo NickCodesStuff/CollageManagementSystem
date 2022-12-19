@@ -1,6 +1,6 @@
 ﻿namespace UniManagement.Library
 {
-    internal class Student
+    public class Student
     {
         public int StudentId { get; set; }
 
