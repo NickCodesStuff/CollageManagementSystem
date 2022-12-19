@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\CollageManagementSystem\\CollageManagementApp\\Management.Lib\\Management.Lib.csproj": {}
+    "C:\\Users\\User\\source\\repos\\CollageManagementSystem\\CollageManagementApp\\UniManagement.Library\\UniManagement.Library.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\CollageManagementSystem\\CollageManagementApp\\Management.Lib\\Management.Lib.csproj": {
+    "C:\\Users\\User\\source\\repos\\CollageManagementSystem\\CollageManagementApp\\UniManagement.Library\\UniManagement.Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\CollageManagementSystem\\CollageManagementApp\\Management.Lib\\Management.Lib.csproj",
-        "projectName": "Management.Lib",
-        "projectPath": "C:\\Users\\User\\source\\repos\\CollageManagementSystem\\CollageManagementApp\\Management.Lib\\Management.Lib.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\CollageManagementSystem\\CollageManagementApp\\UniManagement.Library\\UniManagement.Library.csproj",
+        "projectName": "UniManagement.Library",
+        "projectPath": "C:\\Users\\User\\source\\repos\\CollageManagementSystem\\CollageManagementApp\\UniManagement.Library\\UniManagement.Library.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\CollageManagementSystem\\CollageManagementApp\\Management.Lib\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\CollageManagementSystem\\CollageManagementApp\\UniManagement.Library\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

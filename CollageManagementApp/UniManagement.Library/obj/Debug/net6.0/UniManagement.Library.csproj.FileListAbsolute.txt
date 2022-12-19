@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\CollageManagementSystem\CollageManagementApp\UniManagement.Library\bin\Debug\net6.0\UniManagement.Library.deps.json
+C:\Users\User\source\repos\CollageManagementSystem\CollageManagementApp\UniManagement.Library\bin\Debug\net6.0\UniManagement.Library.dll
+C:\Users\User\source\repos\CollageManagementSystem\CollageManagementApp\UniManagement.Library\bin\Debug\net6.0\UniManagement.Library.pdb
+C:\Users\User\source\repos\CollageManagementSystem\CollageManagementApp\UniManagement.Library\obj\Debug\net6.0\UniManagement.Library.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CollageManagementSystem\CollageManagementApp\UniManagement.Library\obj\Debug\net6.0\UniManagement.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CollageManagementSystem\CollageManagementApp\UniManagement.Library\obj\Debug\net6.0\UniManagement.Library.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CollageManagementSystem\CollageManagementApp\UniManagement.Library\obj\Debug\net6.0\UniManagement.Library.AssemblyInfo.cs
+C:\Users\User\source\repos\CollageManagementSystem\CollageManagementApp\UniManagement.Library\obj\Debug\net6.0\UniManagement.Library.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CollageManagementSystem\CollageManagementApp\UniManagement.Library\obj\Debug\net6.0\UniManagement.Library.dll
+C:\Users\User\source\repos\CollageManagementSystem\CollageManagementApp\UniManagement.Library\obj\Debug\net6.0\refint\UniManagement.Library.dll
+C:\Users\User\source\repos\CollageManagementSystem\CollageManagementApp\UniManagement.Library\obj\Debug\net6.0\UniManagement.Library.pdb
+C:\Users\User\source\repos\CollageManagementSystem\CollageManagementApp\UniManagement.Library\obj\Debug\net6.0\ref\UniManagement.Library.dll
