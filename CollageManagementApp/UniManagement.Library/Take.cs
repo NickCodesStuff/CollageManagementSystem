@@ -2,7 +2,7 @@
 {
     public class Take
     {
-        int StudentId { get; set; }
+        public int StudentID { get; set; }
 
         public int CourseID { get; set; }
 
